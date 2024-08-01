@@ -1,2 +1,2 @@
-# jspingpong
-js-ping-pong
+# meuprimeiroprojeto
+meuprojeto
